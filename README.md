@@ -1,3 +1,7 @@
+Link youtube
+
+https://youtu.be/UsRx0W6F1iw
+
 # 📊 ỨNG DỤNG MACHINE LEARNING PHÂN CỤM NĂNG LỰC HỌC TẬP SINH VIÊN K58KTP
 
 Dự án nghiên cứu này xây dựng một hệ thống phân loại học lực sinh viên dựa trên phương pháp **Học máy không giám sát (Unsupervised Learning)**. Bằng cách áp dụng các thuật toán phân cụm tiên tiến, hệ thống tự động nhận diện cấu trúc phân bố năng lực học tập tự nhiên từ dữ liệu điểm số, khắc phục hoàn toàn tính chủ quan của các phương pháp áp ngưỡng cố định truyền thống.
